@@ -1,7 +1,5 @@
 # Hotel Management API
 
-This project is a [brief description of your project].
-
 ## Table of Contents
 
 - [Introduction](#introduction)
