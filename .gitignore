@@ -3,4 +3,3 @@ package-lock.json
 node_modules
 tsconfig.json
 error.md
-build
