@@ -1,8 +1,4 @@
-Based on the provided files, here's a sample README file for your project:
-
----
-
-# Project Name
+# Hotel Management API
 
 This project is a [brief description of your project].
 
